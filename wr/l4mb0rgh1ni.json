@@ -18,9 +18,12 @@
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
+      "ON_OFF_CATEGORY" = "0";,
       "status_app": "0",
       "link_redirect": "https://",
-      "coin_reward": 500
+      "coin_reward": 500,
+      "on_off_category": 1
+    
     }
   ],
   "More":

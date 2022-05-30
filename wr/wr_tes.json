@@ -1,0 +1,342 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "coin_reward": 500,
+      "on_off_category": "1"
+    
+    }
+  ],
+  "More":
+  [
+   
+  ],
+
+  "Categories": [
+    {
+      "name_category": "Aventador",
+      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    }
+  ],
+
+  "Data":
+  [
+	
+	  {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/1.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/2.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/3.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/4.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/5.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/6.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/7.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/8.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/9.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/10.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/11.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/12.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/13.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/14.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/15.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/16.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/17.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/18.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/19.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/20.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/21.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/22.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/23.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/24.jpg",
+      "coin":100
+    },    {
+      "id":6,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"file:///android_asset/image/25.jpg",
+      "coin":100
+    },    {
+      "id":1000,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/cc/9f/a8/cc9fa860401eabab6ff6d987fc869828.jpg",
+      "coin":100
+    },
+	    {
+      "id":1001,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/89/a4/ae/89a4ae097b3be8c43ca8d4f0456ce460.jpg",
+      "coin":100
+    },
+	    {
+      "id":1002,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/26/00/88/260088b4c1516ecc1e684fa310937e26.jpg",
+      "coin":100
+    },
+	    {
+      "id":1003,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/c7/03/91/c703914f52fb1457539b71d26ac3f6aa.jpg",
+      "coin":100
+    },
+	    {
+      "id":1004,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/originals/69/d1/27/69d1274566ee7101a23ee6184f4d5c06.jpg",
+      "coin":100
+    },
+	    {
+      "id":1005,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/originals/ef/0b/fc/ef0bfc034db9266b3b7a24c47373c6f6.jpg",
+      "coin":100
+    },
+	    {
+      "id":1006,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/e3/a8/23/e3a823750e00d1e6a8fd149cd661f51d.jpg",
+      "coin":100
+    },
+	    {
+      "id":1007,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/17/22/6f/17226f41caa77828cd788ecb6b4f28a6.jpg",
+      "coin":100
+    },
+	    {
+      "id":1008,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/50/78/31/507831559c020ab78e72cb59ef70966e.jpg",
+      "coin":100
+    },
+	    {
+      "id":1009,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/18/d4/d1/18d4d1937d9f018bbe27cac846799783.jpg",
+      "coin":100
+    },
+	    {
+      "id":1010,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/b0/4f/e4/b04fe4bb9c318f813f7ed9338b1ee5dc.jpg",
+      "coin":100
+    },
+	    {
+      "id":1011,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/9a/1c/63/9a1c63f0e40ff0aa02de84cb8ca6d51b.jpg",
+      "coin":100
+    },
+	    {
+      "id":1012,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/cb/ba/fd/cbbafdf497747ef64d0e666b7629bafd.jpg",
+      "coin":100
+    },
+	    {
+      "id":1013,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/36/10/c4/3610c435df391fa3471f227277507a06.jpg",
+      "coin":100
+    },
+	    {
+      "id":1014,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/9a/b8/97/9ab89738ad1d8dfcae58b9cd06f4abd6.jpg",
+      "coin":100
+    },
+	    {
+      "id":1015,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/25/85/8e/25858e00532be4a846c9d8e3bf03c4be.jpg",
+      "coin":100
+    },
+	    {
+      "id":1016,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/00/7d/79/007d79fe612ebe0d13685b23932b616a.jpg",
+      "coin":100
+    },
+	    {
+      "id":1017,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/df/4d/98/df4d9847de820c709f1f6869c8b2871a.jpg",
+      "coin":100
+    },
+	    {
+      "id":1018,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/0c/cd/b9/0ccdb9276aa026ab0e42a9e18f866cda.jpg",
+      "coin":100
+    },
+	    {
+      "id":1019,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/e0/ec/ca/e0eccae43943cb58dd982a7e7959868b.jpg",
+      "coin":100
+    },
+	    {
+      "id":1020,
+      "name_category": "Aventador",
+      "title":"Aventador",
+      "image":"https://i.pinimg.com/564x/f8/f3/ef/f8f3ef3c19e2efc1f9ff849725268bad.jpg",
+      "coin":100
+    }
+  ]
+}

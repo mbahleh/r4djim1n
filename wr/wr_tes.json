@@ -20,8 +20,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "coin_reward": 500,
-      "on_off_category": "0"
+      "coin_reward": 500
     
     }
   ],
@@ -45,13 +44,14 @@
   "Data":
   [
 	
-	  {
+{
       "id":1001,
       "name_category": "Aventador",
       "title":"Aventador",
       "image":"file:///android_asset/image/1.jpg",
       "coin":100
-    },    {
+    },
+	 {
       "id":1002,
       "name_category": "Aventador",
       "title":"Aventador",

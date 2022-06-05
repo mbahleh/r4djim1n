@@ -8,7 +8,7 @@
       "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 55,
+      "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -21,23 +21,7 @@
       }
    ],
 
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"file:///android_asset/ludo.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"file:///android_asset/home.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    }
-  ],
-  {
-  "More": [
+   "More": [
     {
       "id": 1,
       "title": "IQ Test vs The Moron Test",
@@ -110,6 +94,5 @@
       "voice_url": "jungkook.mp3"
     }
   ]
-}
 
 }

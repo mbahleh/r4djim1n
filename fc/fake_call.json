@@ -35,6 +35,81 @@
       "image":"file:///android_asset/home.webp",
       "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
     }
+  ],
+  {
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Item": [
+    {
+      "id": 1,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/1.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v1.mp4",
+      "voice_url": "jungkook.mp3"
+    },
+	{
+      "id": 2,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/2.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v2.mp4",
+      "voice_url": "jungkook.mp3"
+    },
+	{
+      "id": 3,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/3.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v3.mp4",
+      "voice_url": "jungkook.mp3"
+    },
+	{
+      "id": 4,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/4.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v4.mp4",
+      "voice_url": "jungkook.mp3"
+    },
+	{
+      "id": 5,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/5.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v5.mp4",
+      "voice_url": "jungkook.mp3"
+    },
+	{
+      "id": 6,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/1.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v6.mp4",
+      "voice_url": "jungkook.mp3"
+    },
+	{
+      "id": 7,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/7.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v7.mp4",
+      "voice_url": "jungkook.mp3"
+    },
+	{
+      "id": 8,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/8.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v8.mp4",
+      "voice_url": "jungkook.mp3"
+    },
+	{
+      "id": 9,
+      "name": "Jungkook",
+      "image_url": "file:///android_asset/image/9.jpg",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v4.mp4",
+      "voice_url": "jungkook.mp3"
+    }
   ]
+}
 
 }

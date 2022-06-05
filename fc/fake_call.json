@@ -54,7 +54,7 @@
       "id": 2,
       "name": "Jungkook",
       "image_url": "file:///android_asset/image/3.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v3.mp4",
+      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v3.m4v",
       "voice_url": "jungkook.mp3"
     },
 	{
@@ -74,7 +74,7 @@
 	{
       "id": 5,
       "name": "Jungkook",
-      "image_url": "file:///android_asset/image/1.jpg",
+      "image_url": "file:///android_asset/image/6.jpg",
       "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v6.mp4",
       "voice_url": "jungkook.mp3"
     },

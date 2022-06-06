@@ -40,63 +40,63 @@
       "id": 0,
       "name": "Cha Eun WOO",
       "image_url": "file:///android_asset/image/1.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v1.m4v",
+      "video_url": "v1",
       "voice_url": "audio.mp3"
     },
 	{
       "id": 1,
       "name": "Cha Eun WOO",
       "image_url": "file:///android_asset/image/2.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v2.m4v",
+      "video_url": "v2",
       "voice_url": "audio.mp3"
     },
 	{
       "id": 2,
       "name": "Cha Eun WOO",
       "image_url": "file:///android_asset/image/3.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v3.m4v",
+      "video_url": "v3",
       "voice_url": "audio.mp3"
     },
 	{
       "id": 3,
       "name": "Cha Eun WOO",
       "image_url": "file:///android_asset/image/4.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v4.m4v",
+      "video_url": "v4",
       "voice_url": "audio.mp3"
     },
 	{
       "id": 4,
       "name": "Cha Eun WOO",
       "image_url": "file:///android_asset/image/5.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v5.mp4",
+      "video_url": "v5",
       "voice_url": "audio.mp3"
     },
 	{
       "id": 5,
       "name": "Cha Eun WOO",
       "image_url": "file:///android_asset/image/6.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v6.m4v",
+      "video_url": "v6",
       "voice_url": "audio.mp3"
     },
 	{
       "id": 6,
       "name": "Jungkook",
       "image_url": "file:///android_asset/image/7.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v7.m4v",
+      "video_url": "v7",
       "voice_url": "audio.mp3"
     },
 	{
       "id": 7,
       "name": "Cha Eun WOO",
       "image_url": "file:///android_asset/image/8.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v1.m4v",
+      "video_url": "v1",
       "voice_url": "audio.mp3"
     },
 	{
       "id": 8,
       "name": "Cha Eun WOO",
       "image_url": "file:///android_asset/image/9.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v4.m4v",
+      "video_url": "v3",
       "voice_url": "audio.mp3"
     }
   ]

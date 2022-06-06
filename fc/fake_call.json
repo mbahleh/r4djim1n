@@ -38,66 +38,66 @@
   "Item": [
     {
       "id": 0,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/1.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v1.mp4",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v1",
+      "voice_url": "audio.mp3"
     },
 	{
       "id": 1,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/2.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v2.mp4",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v2",
+      "voice_url": "audio.mp3"
     },
 	{
       "id": 2,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/3.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v3.m4v",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v3",
+      "voice_url": "audio.mp3"
     },
 	{
       "id": 3,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/4.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v4.mp4",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v4",
+      "voice_url": "audio.mp3"
     },
 	{
       "id": 4,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/5.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v5.mp4",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v5",
+      "voice_url": "audio.mp3"
     },
 	{
       "id": 5,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/6.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v6.mp4",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v6",
+      "voice_url": "audio.mp3"
     },
 	{
       "id": 6,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/7.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v7.mp4",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v7",
+      "voice_url": "audio.mp3"
     },
 	{
       "id": 7,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/8.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v8.mp4",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v8",
+      "voice_url": "audio.mp3"
     },
 	{
       "id": 8,
-      "name": "Jungkook",
+      "name": "Lisa BlackPink",
       "image_url": "file:///android_asset/image/9.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/jungk0k/v4.mp4",
-      "voice_url": "jungkook.mp3"
+      "video_url": "v2",
+      "voice_url": "audio.mp3"
     }
   ]
 

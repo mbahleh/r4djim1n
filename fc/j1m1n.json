@@ -48,42 +48,42 @@
       "id": 1,
       "name": "BTS Jimin",
       "image_url": "file:///android_asset/image/1.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/j1m1n/v1.mp4",
+      "video_url": "v1",
       "voice_url": "jimin.mp3"
     },
 	{
       "id": 2,
       "name": "BTS Jimin",
       "image_url": "file:///android_asset/image/2.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/j1m1n/v2.mp4",
+      "video_url": "v2",
       "voice_url": "jimin.mp3"
     },
 	{
       "id": 3,
       "name": "BTS Jimin",
       "image_url": "file:///android_asset/image/3.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/j1m1n/v1.mp4",
+      "video_url": "v1",
       "voice_url": "jimin.mp3"
     },
 	{
       "id": 4,
       "name": "Jungkook",
       "image_url": "file:///android_asset/image/4.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/j1m1n/v2.mp4",
+      "video_url": "v2",
       "voice_url": "jimin.mp3"
     },
 	{
       "id": 5,
       "name": "BTS Jimin",
       "image_url": "file:///android_asset/image/5.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/j1m1n/v1.mp4",
+      "video_url": "v1",
       "voice_url": "jimin.mp3"
     },
 	{
       "id": 6,
       "name": "BTS Jimin",
       "image_url": "file:///android_asset/image/1.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/j1m1n/v2.mp4",
+      "video_url": "v2",
       "voice_url": "jimin.mp3"
     },
 	{
@@ -97,14 +97,14 @@
       "id": 8,
       "name": "BTS Jimin",
       "image_url": "file:///android_asset/image/8.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/j1m1n/v2.mp4",
+      "video_url": "v1",
       "voice_url": "jimin.mp3"
     },
 	{
       "id": 9,
       "name": "BTS Jimin",
       "image_url": "file:///android_asset/image/1.jpg",
-      "video_url": "https://radjimen.izzam.my.id/fc/j1m1n/v2.mp4",
+      "video_url": "v2",
       "voice_url": "jimin.mp3"
     }
   ]

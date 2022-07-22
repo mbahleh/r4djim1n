@@ -1,0 +1,133 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5436395797043027/2654309267",
+      "main_ads_intertitial":"ca-app-pub-5436395797043027/5088900911",
+      "main_native_for_admob_applovin":"ca-app-pub-5436395797043027/2350474742",
+      "backup_native_for_admob_applovin":"8f85fe2a91f3bfc7",
+      "backup_ads_banner":"5c41916fab7832cc",
+      "backup_ads_intertitial":"4dd8c807786be272",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+    {
+      "title":"SR2 Panorama",
+      "image":"https://archive.org/download/mod-bussid-bus-sr-2-panorama-kamera-penumpang-by-rull-hyden/SR2%20Panorama/MOD-BUSSID-Bus-SR2-Panorama.jpg",
+      "link_mods":"https://archive.org/download/mod-bussid-bus-sr-2-panorama-kamera-penumpang-by-rull-hyden/SR2%20Panorama/MOD%20BUSSID%20BUS%20SR2%20Panorama%20Kamera%20Penumpang%20by%20Rull%20Hyden.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"SR2 S CLASS XHD PRIME",
+      "image":"https://archive.org/download/legacy-sr-2-s-class-xhd-prime-2/sr-2%20S-class%20xhd%20prime/sr-2-S-class-xhd-prime.png",
+      "link_mods":"https://archive.org/download/legacy-sr-2-s-class-xhd-prime-2/sr-2%20S-class%20xhd%20prime/legacy%20sr-2%20S-class%20xhd%20prime%282%29.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"SR2 HD Halmahera",
+      "image":"https://archive.org/download/sr-2-hd-2/SR2%20Halmahera/ss-sr2-halmahera.png",
+      "link_mods":"https://archive.org/download/sr-2-hd-2/SR2%20Halmahera/SR2%20HD%282%29.bussidmod",
+      "link_livery":"https://archive.org/download/sr-2-hd-2/SR2%20Halmahera/Halmahera%20SR2%20by%20Andy%20Adiitya%282%29.png"
+    }
+  ,
+    {
+      "title":"SR2 K410 dop laksana",
+      "image":"https://archive.org/download/sr-2-k-410-dop-laksana/SR2%20Tronton%20dop%20Laksana/ss-sr2-tronton-dop.jpg",
+      "link_mods":"https://archive.org/download/sr-2-k-410-dop-laksana/SR2%20Tronton%20dop%20Laksana/SR2%20K410%20dop%20laksana.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Jaguar XE SV Project 8",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+    }  ,
+    {
+      "title":"SR2 HD Transporter Cvt ",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/jimbaran.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Jimbaran%20Putra%20Abadi%20SR2%20Transporter%20by%20Blahbloh.png"
+    }
+  ,
+    {
+      "title":"SR2 HD Transporter S-Series - KYM",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/KYM%20Trans.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/KYM%20Trans%20SR2%20Transporter%20by%20Blahbloh.png"
+    }
+  ,
+    {
+      "title":"Kapuas raya",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/kapuas%20raya.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Kapuas%20Raya%20SR2%20Transporter%20by%20Blahbloh.png"
+    }
+    ,
+    {
+      "title":"Marissa Holiday",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Marrisa.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Marissa%20Holiday%20SR2%20HD%20Transporter%20Aldova%20by%20Akbar%20N.png"
+    }  ,
+    {
+      "title":"Murni Jaya",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/murni.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Murni%20Jaya%20SR2%20Transporter%20by%20Blahbloh.png"
+    }  ,
+    {
+      "title":"Puspa Jaya",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/puspa%20pink.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Puspa%20Jaya%20Pink.png"
+    }  ,
+    {
+      "title":"Rosalia Indah",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/rosin.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Rosin%20SR2%20HD%20Transporter%20Aldova%20by%20Blahbloh.png"
+    }  ,
+    {
+      "title":"STJ Biru",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/STJ%20biru.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/STJ%20Biru%20SR2%20HD%20Transporter%20Aldova%20by%20V_Art.png"
+    }  ,
+    {
+      "title":"STJ Merah",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/stj%20merah.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/STJ%20Merah%20SR2%20HD%20Transporter%20Aldova%20by%20V_Art.png"
+    }  ,
+    {
+      "title":"STJ Oren",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/STJ%20Oren%20SR2%20HD%20Transporter%20Aldova%20by%20V_Art.png",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/stj%20oren.jpeg"
+    }  ,
+    {
+      "title":"Shantika",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/shantika.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Shantika%20DM%20Classs%20SR2%20HD%20Transporter%20Aldova%20BY%20PRA.png"
+    }  ,
+      {
+      "title":"Sugeng Rahayu",
+      "image":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/sugeng%20rahayu.jpeg",
+      "link_mods":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/%28Dop%29%20SR2%20HD%20Transporter%20S-Series%20Cvt%20Aldovadewa.bussidmod",
+      "link_livery":"https://archive.org/download/dop-sr-2-hd-transporter-cvt-aldovadewa/Transporter/Sugeng%20Rahayu%20SR2%20HD%20Transporter%20Aldova%20by%20Blahbloh.png"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
       "backup_native_for_admob_applovin":"0a150a7e7fa5bde0",
       "backup_ads_banner":"8381248",
       "backup_ads_intertitial":"8381246",
-      "interval_intertitial": 10,
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"14e4a4bd9",
       "high_paying_keyword_1": "",

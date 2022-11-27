@@ -73,7 +73,7 @@
   [
     {
       "id":1,
-      "name":"Creepy Momo",
+      "name":"Santa Claus",
       "image_url":"file:///android_asset/1.jpg",
       "video_url":"v1",
       "voice_url":"audio.mp3"
@@ -87,30 +87,30 @@
     },
     {
       "id":3,
-      "name":"Creepy Momo",
+      "name":"Santa Claus",
       "image_url":"file:///android_asset/3.jpg",
       "video_url":"v3",
       "voice_url":"audio.mp3"
     },
     {
       "id":4,
-      "name":"Creepy Momo",
+      "name":"Santa Claus",
       "image_url":"file:///android_asset/4.jpg",
-      "video_url":"v4",
+      "video_url":"v1",
       "voice_url":"audio.mp3"
     },
     {
       "id":5,
-      "name":"Creepy Momo",
+      "name":"Santa Claus",
       "image_url":"file:///android_asset/5.jpg",
-      "video_url":"v5",
+      "video_url":"v2",
       "voice_url":"audio.mp3"
     },
     {
       "id":6,
-      "name":"Creepy Momo",
+      "name":"Santa Claus",
       "image_url":"file:///android_asset/6.jpg",
-      "video_url":"v6",
+      "video_url":"v3",
       "voice_url":"audio.mp3"
     }
   ]

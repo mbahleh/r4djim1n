@@ -80,7 +80,7 @@
     },
     {
       "id":2,
-      "name":"Creepy Momo",
+      "name":"Santa Claus",
       "image_url":"file:///android_asset/2.jpg",
       "video_url":"v2",
       "voice_url":"audio.mp3"

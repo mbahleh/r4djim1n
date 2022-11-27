@@ -1,0 +1,118 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "0",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"69dda5e130d7c82b",
+      "backup_ads_banner":"0e42e645220b1093",
+      "backup_ads_intertitial":"d018ff890ffc219e",
+      "backup_ads_rewards":"0b4c9034e61192cc",
+      "open_ads_admob":"0",
+      "open_ads_alien":"ad10a493cb4bcf12",
+      "switch_banner_natives_ads":"2",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"PL160825171540",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"file:///android_asset/ludo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"file:///android_asset/home.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"file:///android_asset/mine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    },
+    {
+      "id":4,
+      "title":"Sonic the Hedgehog™ Classic",
+      "image":"file:///android_asset/sonic.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+    },
+    {
+      "id":5,
+      "title":"War Machines: Best Free Online War & Military Game",
+      "image":"file:///android_asset/machine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+      "id":6,
+      "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
+      "image":"file:///android_asset/heli.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Creepy Momo",
+      "image_url":"file:///android_asset/1.jpg",
+      "video_url":"v1",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":2,
+      "name":"Creepy Momo",
+      "image_url":"file:///android_asset/2.jpg",
+      "video_url":"v2",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":3,
+      "name":"Creepy Momo",
+      "image_url":"file:///android_asset/3.jpg",
+      "video_url":"v3",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":4,
+      "name":"Creepy Momo",
+      "image_url":"file:///android_asset/4.jpg",
+      "video_url":"v4",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":5,
+      "name":"Creepy Momo",
+      "image_url":"file:///android_asset/5.jpg",
+      "video_url":"v5",
+      "voice_url":"audio.mp3"
+    },
+    {
+      "id":6,
+      "name":"Creepy Momo",
+      "image_url":"file:///android_asset/6.jpg",
+      "video_url":"v6",
+      "voice_url":"audio.mp3"
+    }
+  ]
+
+}

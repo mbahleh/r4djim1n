@@ -1,0 +1,35 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "username":"deizzam",
+      "dasboard_name":"porsche1",
+      "dasboard_name2":"porsche2",
+      "dasboard_name3":"porsche3",
+      "dasboard_name4":"porsche4",
+      "dasboard_name5":"porsche5",
+      "dasboard_name6":"porsche6",
+      "dasboard_name7":"porsche7",
+      "dasboard_name8":"porsche8",
+      "dasboard_name9":"porsche9",
+      "dasboard_name10":"porsche10"
+    }
+  ]
+}

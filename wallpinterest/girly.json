@@ -1,0 +1,35 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"ada192e4b67c2aa8",
+      "backup_ads_intertitial":"0ee424e4f1ceda11",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "username":"deizzam",
+      "dasboard_name":"xmas1",
+      "dasboard_name2":"xmas2",
+      "dasboard_name3":"xmas3",
+      "dasboard_name4":"xmas4",
+      "dasboard_name5":"xmas5",
+      "dasboard_name6":"xmas6",
+      "dasboard_name7":"xmas7",
+      "dasboard_name8":"xmas8",
+      "dasboard_name9":"xmas9",
+      "dasboard_name10":"xmas10"
+    }
+  ]
+}

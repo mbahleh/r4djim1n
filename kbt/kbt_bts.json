@@ -1,13 +1,14 @@
 {
    "Ads": [
     {
-      "select_main_ads": "0",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"0",
-      "main_ads_banner": "0",
-      "main_ads_intertitial":"0",
+      "main_ads_banner": "ca-app-pub-5436395797043027/7857442517",
+      "main_ads_intertitial":"ca-app-pub-5436395797043027/5039707482",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-5436395797043027/7474299132",
       "backup_ads_banner":"0",
       "backup_ads_intertitial":"0",
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",

@@ -44,7 +44,7 @@
       "book_id": 3,
       "book_name": "IPA",
       "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPA-BS-KLS-X.pdf",
-      "url_cover_book": "file:///android_asset/IPA-BS-KLS-X-Cover.png",
+      "url_cover_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/IPA-BS-KLS-X-Cover.png",
       "short_description": ""
     },    
 	{

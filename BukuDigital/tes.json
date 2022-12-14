@@ -29,203 +29,101 @@
     {
       "book_id": 1,
       "book_name": "Bahasa Indonesia",
-      "url_book": "pdf/indonesia.pdf",
-      "url_cover_book": "file:///android_asset/image/indonesia.jpg",
-      "short_description": "Puisi adalah salah satu bentuk karya sastra yang banyak disukai karena disajikan dalam bahasa yang indah dan sifatnya yang imajinatif. Bahkan puisi juga dianggap sebagai rangkaian kata-kata yang menggambarkan perasaan penulis (penyair)."
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Bahasa-Indonesia-BS-KLS-X.pdf",
+      "url_cover_book": "file:///android_asset/Bahasa-Indonesia-BS-KLS-X-Cover.png",
+      "short_description": ""
     },
-    {
+	    {
       "book_id": 2,
-      "book_name": "Kimia",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/kimia.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/kimia.webp",
-      "short_description": "Materi pada modul ini akan memberikan pengetahuan pada kalian tentang\nperkembangan model atom dari masa ke masa mulai dari teori atom kuno yang\ndikemukakan oleh Democritus, teori atom Dalton, J.J Thomson, Rutherford,Niels Bohr"
-    },
-    {
-      "book_id": 3,
-      "book_name": "Matematika Umum",
-      "url_book": "pdf/matematika.pdf",
-      "url_cover_book": "file:///android_asset/image/matematika.jpg",
-      "short_description": "Pada modul kali ini kita akan mempelajari nilai trigonometri pada berbagai kuadran dan nilai-nilai sinus, cosinus dan tangen yang saling bersesuaian pada semua kuadran."
-    },
-    {
-      "book_id": 4,
       "book_name": "Bahasa Inggris",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/inggris.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/inggris.webp",
-      "short_description": "modul ini akan memfasilitasi Anda untuk mampu berkomunikasi berkaitan memberi dan meminta informasi terkait pengandaian diikuti oleh perintah/saran, sesuai dengan konteks penggunaannya."
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Bahasa-Inggris-BS-KLS-X.pdf",
+      "url_cover_book": "file:///android_asset/Bahasa-Inggris-BS-KLS-X-cover.png",
+      "short_description": ""
     },
-    {
+	    {
+      "book_id": 3,
+      "book_name": "IPA",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPA-BS-KLS-X.pdf",
+      "url_cover_book": "file:///android_asset/IPA-BS-KLS-X-Cover.png",
+      "short_description": ""
+    },    
+	{
+      "book_id": 4,
+      "book_name": "IPS",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPS-BS-KLS-X.pdf",
+      "url_cover_book": "file:///android_asset/IPS-BS-KLS-X-Cover.png",
+      "short_description": ""
+    },
+	    {
       "book_id": 5,
-      "book_name": "Fisika",
-      "url_book": "https://aliendro.id/uploads/demo/multypdf/fisika.pdf",
-      "url_cover_book": "https://aliendro.id/uploads/demo/multypdf/fisika.webp",
-      "short_description": "Untuk dapat memahami materi Modul ini dengan baik, Anda hendaknya mengerjakan latihan dan evaluasi kemudian mencocokkan hasilnya dengan kunci jawaban yang tersedia di bagian belakang modul ini. "
+      "book_name": "Kepercayaan",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Kepercayaan-BS-KLS-X.pdf",
+      "url_cover_book": "file:///android_asset/Kepercayaan-BS-KLS-X-Cover.png",
+      "short_description": ""
     },
-    {
+	    {
       "book_id": 6,
-      "book_name": "Geografi",
-      "url_book": "pdf/geografi.pdf",
-      "url_cover_book": "file:///android_asset/image/geografi.jpg",
-      "short_description": "Ketahanan Pangan, Industri, dan Energi meliputi: 1) Pengertian ketahanan pangan, bahan industri, serta energi baru dan terbarukan, 2) Potensi dan persebaran sumber daya pertanian, perkebunan, perikanan, dan peternakan untuk ketahanan pangan nasional."
+      "book_name": "Matematika",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-X.pdf",
+      "url_cover_book": "file:///android_asset/Matematika-BS-KLS-X-Cover.png",
+      "short_description": ""
     },
-    {
+	    {
       "book_id": 7,
-      "book_name": "PJOK",
-      "url_book": "pdf/pjok.pdf",
-      "url_cover_book": "file:///android_asset/image/pjok.jpg",
-      "short_description": "Modul ini membahas tentang analisis ketrampilan 2 gaya renang untuk penyelamatan di air yaitu gaya dada dan gaya bebas, dimana kedua gaya ini lebih umum digunakan dalam upaya penyelamatan diri."
+      "book_name": "PPKN",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/PPKN-BS-KLS-X.pdf",
+      "url_cover_book": "file:///android_asset/PPKN-BS-KLS-X-Cover.png",
+      "short_description": ""
+    },
+	    {
+      "book_id": 8,
+      "book_name": "Sejarah",
+      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Sejarah-BS-KLS-X.pdf",
+      "url_cover_book": "file:///android_asset/Sejarah-BS-KLS-X-Cover.png",
+      "short_description": ""
     }
+	
   ],
   "Chapter": [
     {
       "book_id": 1,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
     },
-    {
-      "book_id": 1,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Menentukan Suasan, Tema dan Makna dalam Puisi",
-      "page_number": "8"
-    },
-    {
-      "book_id": 1,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Membaca Puisi dengan Memperhatikan Vokal, Ekspresi, Dan Intonasi Yang Baik",
-      "page_number": "15"
-    },
-    {
-      "book_id": 1,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "28"
-    },
-    {
+	    {
       "book_id": 2,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
     },
-    {
-      "book_id": 2,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Bentuk Molekul Berdasarkan Teori VSEPR Dan Teori Domain Elektron",
-      "page_number": "8"
-    },
-    {
-      "book_id": 2,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Menggambarkan Bentuk Molekul",
-      "page_number": "18"
-    },
-    {
-      "book_id": 2,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "30"
-    },
-    {
+	    {
       "book_id": 3,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
     },
-    {
-      "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Konsep Nilai Mutlak",
-      "page_number": "8"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Persamaan Nilai Mutlak Liner Satu Variabel",
-      "page_number": "14"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Kegiatan Pembelajaran 3 : Pertidaksamaan Nilai Mutlak Linear Satu Variabel",
-      "page_number": "23"
-    },
-    {
-      "book_id": 3,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "33"
-    },
-    {
+	    {
       "book_id": 4,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
     },
-    {
-      "book_id": 4,
-      "chapter_name": "Kegiatan Pembelajaran 1 ",
-      "page_number": "8"
-    },
-    {
-      "book_id": 4,
-      "chapter_name": "Kegiatan Pembelajaran 2",
-      "page_number": "14"
-    },
-    {
-      "book_id": 4,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "24"
-    },
-    {
+	    {
       "book_id": 5,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
-    },
-    {
-      "book_id": 5,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Teori Relativitas Einstein",
-      "page_number": "8"
-    },
-    {
-      "book_id": 5,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Dampak Teori Relativitas Einstein",
-      "page_number": "17"
-    },
-    {
-      "book_id": 5,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "30"
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
     },
     {
       "book_id": 6,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
     },
-    {
-      "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 1 : Karakteristik Lapisan Atmosfer Vumi Serta Unsur-Unsur Cuasa Dan Iklam",
-      "page_number": "9"
-    },
-    {
-      "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 2 : Kalsifikasi Iklim, Pola Iklim Global, Dan Perubahan Iklim Global Terhadap Kehidpuan",
-      "page_number": "28"
-    },
-    {
-      "book_id": 6,
-      "chapter_name": "Kegiatan Pembelajaran 3 : Karakteristik Iklim Indonesia Dan Lembaga-Lembaga Yang Menyediakan Dan Memanfaatkan Data Cuaca Dan Iklim Indonesia",
-      "page_number": "39"
-    },
-    {
-      "book_id": 6,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "51"
-    },
-    {
+	    {
       "book_id": 7,
-      "chapter_name": "Pendahuluan",
-      "page_number": "6"
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
     },
-    {
-      "book_id": 7,
-      "chapter_name": "Kegiatan Pembelajaran 1",
-      "page_number": "9"
-    },
-    {
-      "book_id": 7,
-      "chapter_name": "Kegiatan Pembelajaran 2",
-      "page_number": "16"
-    },
-    {
-      "book_id": 7,
-      "chapter_name": "Daftar Pustaka",
-      "page_number": "27"
+	    {
+      "book_id": 8,
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
     }
   ]
 }

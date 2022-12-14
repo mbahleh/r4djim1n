@@ -36,40 +36,46 @@
 	
   ],
   "Chapter": [
+	  
+       {
+      "book_id": 1,
+      "chapter_name": "<b>SEMESTER 1 </b>",
+      "page_number": "19"
+    },
     {
       "book_id": 1,
       "chapter_name": "Chapter 1 Great Athletes",
-      "page_number": "1"
+      "page_number": "19"
     },
        {
       "book_id": 1,
       "chapter_name": "     Instructional Objectives",
-      "page_number": "20"
-    },
-       {
-      "book_id": 1,
-      "chapter_name": "     Questions to Think About",
       "page_number": "21"
     },
        {
       "book_id": 1,
-      "chapter_name": "     Chapter Review",
-      "page_number": "36"
+      "chapter_name": "     Questions to Think About",
+      "page_number": "22"
     },
        {
       "book_id": 1,
-      "chapter_name": "     Relection",
+      "chapter_name": "     Chapter Review",
       "page_number": "37"
     },
        {
       "book_id": 1,
-      "chapter_name": "     Assessment",
+      "chapter_name": "     Relection",
       "page_number": "38"
     },
        {
       "book_id": 1,
+      "chapter_name": "     Assessment",
+      "page_number": "39"
+    },
+       {
+      "book_id": 1,
       "chapter_name": "     Enrichment",
-      "page_number": "43"
+      "page_number": "44"
     }
   ]
 }

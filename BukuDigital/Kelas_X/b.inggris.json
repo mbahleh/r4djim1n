@@ -80,37 +80,37 @@
        {
       "book_id": 1,
       "chapter_name": "➤ Chapter 2 Sports Events",
-      "page_number": "46"
+      "page_number": "47"
     },
        {
       "book_id": 1,
       "chapter_name": "     ✓ Instructional Objectives",
-      "page_number": ""
-    },
-       {
-      "book_id": 1,
-      "chapter_name": "     ✓ Questions to Think About",
       "page_number": "48"
     },
        {
       "book_id": 1,
-      "chapter_name": "     ✓ Chapter Review",
-      "page_number": "61"
+      "chapter_name": "     ✓ Questions to Think About",
+      "page_number": "49"
     },
        {
       "book_id": 1,
-      "chapter_name": "     ✓ Relection ",
+      "chapter_name": "     ✓ Chapter Review",
       "page_number": "62"
     },
        {
       "book_id": 1,
-      "chapter_name": "     ✓ Assessment ",
+      "chapter_name": "     ✓ Relection ",
       "page_number": "63"
     },
        {
       "book_id": 1,
+      "chapter_name": "     ✓ Assessment ",
+      "page_number": "64"
+    },
+       {
+      "book_id": 1,
       "chapter_name": "     ✓ Enrichment ",
-      "page_number": "67"
+      "page_number": "68"
     }
   ]
 }

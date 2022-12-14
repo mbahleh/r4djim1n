@@ -36,35 +36,35 @@
 	    {
       "book_id": 2,
       "book_name": "Bahasa Inggris",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Bahasa-Inggris-BS-KLS-X.pdf",
+      "url_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Bahasa-Inggris-BS-KLS-X.pdf",
       "url_cover_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/Bahasa-Inggris-BS-KLS-X-cover.png",
       "short_description": ""
     },
 	    {
       "book_id": 3,
       "book_name": "IPA",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPA-BS-KLS-X.pdf",
+      "url_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/IPA-BS-KLS-X.pdf",
       "url_cover_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/IPA-BS-KLS-X-Cover.png",
       "short_description": ""
     },    
 	{
       "book_id": 4,
       "book_name": "IPS",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/IPS-BS-KLS-X.pdf",
+      "url_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/IPS-BS-KLS-X.pdf",
       "url_cover_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/IPS-BS-KLS-X-Cover.png",
       "short_description": ""
     },
 	    {
       "book_id": 5,
       "book_name": "Kepercayaan",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Kepercayaan-BS-KLS-X.pdf",
+      "url_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kepercayaan-BS-KLS-X.pdf",
       "url_cover_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/Kepercayaan-BS-KLS-X-Cover.png",
       "short_description": ""
     },
 	    {
       "book_id": 6,
       "book_name": "Matematika",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-X.pdf",
+      "url_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Matematika-BS-KLS-X.pdf",
       "url_cover_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/Matematika-BS-KLS-X-Cover.png",
       "short_description": ""
     },
@@ -78,7 +78,7 @@
 	    {
       "book_id": 8,
       "book_name": "Sejarah",
-      "url_book": "https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Sejarah-BS-KLS-X.pdf",
+      "url_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Sejarah-BS-KLS-X.pdf",
       "url_cover_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/Sejarah-BS-KLS-X-Cover.png",
       "short_description": ""
     }

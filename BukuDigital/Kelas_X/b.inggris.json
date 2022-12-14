@@ -49,33 +49,68 @@
     },
        {
       "book_id": 1,
-      "chapter_name": "   ✓ Instructional Objectives",
+      "chapter_name": "     ✓ Instructional Objectives",
       "page_number": "22"
     },
        {
       "book_id": 1,
-      "chapter_name": "   ✓ Questions to Think About",
+      "chapter_name": "     ✓ Questions to Think About",
       "page_number": "23"
     },
        {
       "book_id": 1,
-      "chapter_name": "   ✓ Chapter Review",
+      "chapter_name": "     ✓ Chapter Review",
       "page_number": "38"
     },
        {
       "book_id": 1,
-      "chapter_name": "   ✓ Relection",
+      "chapter_name": "     ✓ Relection",
       "page_number": "39"
     },
        {
       "book_id": 1,
-      "chapter_name": "   ✓ Assessment",
+      "chapter_name": "     ✓ Assessment",
       "page_number": "40"
     },
        {
       "book_id": 1,
-      "chapter_name": "   ✓ Enrichment",
+      "chapter_name": "     ✓ Enrichment",
       "page_number": "44"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "➤ Chapter 2 Sports Events",
+      "page_number": "46"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     ✓ Instructional Objectives",
+      "page_number": ""
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     ✓ Questions to Think About",
+      "page_number": "48"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     ✓ Chapter Review",
+      "page_number": "61"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     ✓ Relection ",
+      "page_number": "62"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     ✓ Assessment ",
+      "page_number": "63"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     ✓ Enrichment ",
+      "page_number": "67"
     }
   ]
 }

@@ -38,8 +38,38 @@
   "Chapter": [
     {
       "book_id": 1,
-      "chapter_name": "Mulai Baca",
+      "chapter_name": "Chapter 1 Great Athletes",
       "page_number": "1"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     Instructional Objectives",
+      "page_number": "20"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     Questions to Think About",
+      "page_number": "21"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     Chapter Review",
+      "page_number": "36"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     Relection",
+      "page_number": "37"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     Assessment",
+      "page_number": "38"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     Enrichment",
+      "page_number": "43"
     }
   ]
 }

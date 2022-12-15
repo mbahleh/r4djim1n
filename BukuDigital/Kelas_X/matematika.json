@@ -36,11 +36,70 @@
 	
   ],
   "Chapter": [
-	  
+    {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 1 Eksponen dan Logaritma",
+      "page_number": "19"
+    },
        {
       "book_id": 1,
-      "chapter_name": " ✪ 🆂🅴🅼🅴🆂🆃🅴🆁 ❶ ✪",
+      "chapter_name": "     A. Eksponen",
       "page_number": "19"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 1. Definisi Eksponen",
+      "page_number": "21"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 2. Sifat-sifat Eksponen",
+      "page_number": "22"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 3. Fungsi Eksponen ",
+      "page_number": "24"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "             a. Pertumbuhan Eksponen",
+      "page_number": "27"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "             b. Peluruhan Eksponen ",
+      "page_number": "34"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 4. Bentuk Akar ",
+      "page_number": "37"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "             a. Hubungan Bilangan Pangkat dan Akar",
+      "page_number": "37"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "             b. Merasionalkan Bentuk Akar ",
+      "page_number": "38"
+    } ,
+       {
+      "book_id": 1,
+      "chapter_name": "     B. Logaritma",
+      "page_number": "22"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 1. Definisi Logaritma",
+      "page_number": "24"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 2. Sifat-sifat Logaritma",
+      "page_number": "25"
     }
   ]
 }

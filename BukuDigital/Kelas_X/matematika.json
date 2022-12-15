@@ -100,6 +100,155 @@
       "book_id": 1,
       "chapter_name": "        ✓ 2. Sifat-sifat Logaritma",
       "page_number": "43"
+    },       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 2 Barisan dan Deret 51",
+      "page_number": "51"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     A. Barisan",
+      "page_number": "54"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ Barisan Aritmetika",
+      "page_number": "54"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ Barisan Geometri",
+      "page_number": "59"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     B. Deret",
+      "page_number": "64"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 1. Deret Aritmetika",
+      "page_number": "65"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 2. Deret Geometri",
+      "page_number": "68"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 3. Deret Geometri Tak Hingga",
+      "page_number": "72"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 3 Vektor dan Operasinya",
+      "page_number": "79"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     A. Terminologi, Notasi dan Jenis Vektor",
+      "page_number": "82"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 1. Panjang dan Arah Vektor ",
+      "page_number": "85"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 2. Vektor Negatif atau Vektor Lawan",
+      "page_number": "85"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 3. Vektor Ekuivalen (Vektor yang Sama)",
+      "page_number": "86"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     B. Vektor dan Sistem Koordinat",
+      "page_number": "90"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "      ✓ 1. Vektor Berdimensi Dua pada Sistem Koordinat",
+      "page_number": "92"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 2. Komponen-Komponen Vektor",
+      "page_number": "93"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 3. Vektor-Vektor Ekuivalen pada Sistem Koordinat Kartesius",
+      "page_number": "93"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 4. Vektor Berdimensi Tiga pada Sistem Koordinat Kartesiu",
+      "page_number": "93"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 5. Vektor Kolom dan Vektor Baris",
+      "page_number": "94"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 6. Vektor Satuan dari Suatu Vektor",
+      "page_number": "96"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 7. Vektor Posisi",
+      "page_number": "93"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 8.Vektor Berkebalikan",
+      "page_number": "97"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "     C. Operasi Vektor",
+      "page_number": "100"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 1. Penjumlahan Vektor",
+      "page_number": "100"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "              a. Penjumlahan Dua Vektor dengan Metode Segitiga",
+      "page_number": "102"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "              b. Penjumlahan Dua Vektor dengan Metode Jajar Genjang",
+      "page_number": "102"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "              c. Penjumlahan dengan Metode Poligon",
+      "page_number": "103"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "              d. Penjumlahan Vektor secara Komponen",
+      "page_number": "104"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 2. Pengurangan Vektor",
+      "page_number": "105"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "        ✓ 3. Perkalian Skalar dengan Vektor",
+      "page_number": "107"
     }
   ]
 }

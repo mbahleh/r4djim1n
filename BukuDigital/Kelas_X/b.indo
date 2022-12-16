@@ -1,0 +1,45 @@
+{
+  "Ads": [
+    {
+     "select_main_ads": "0",
+      "select_backup_ads":"0",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Book": [
+    {
+      "book_id": 1,
+      "book_name": "IPA",
+      "url_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/Bahasa-Indonesia-BS-KLS-X.pdf",
+      "url_cover_book": "https://raw.githubusercontent.com/mbahleh/r4djim1n/main/BukuDigital/Kelas_X/Bahasa-Indonesia-BS-KLS-X-Cover.png",
+      "short_description": ""
+    }
+	
+  ],
+  "Chapter": [
+    {
+      "book_id": 1,
+      "chapter_name": "Mulai Baca",
+      "page_number": "1"
+    }
+  ]
+}

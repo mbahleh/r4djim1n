@@ -36,10 +36,35 @@
 	
   ],
   "Chapter": [
-    {
+       {
       "book_id": 1,
-      "chapter_name": "Mulai Baca",
-      "page_number": "1"
+      "chapter_name": "BAB 1 MENGUNGKAP FAKTA ALAM SECARA OBJEKTIF ",
+      "page_number": "17"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "BAB 2 MENGUNGKAPKAN KRITIK LEWAT SENYUMAN",
+      "page_number": "43"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "BAB 3 MENYUSURI NILAI DALAM CERITA LINTAS ZAMAN",
+      "page_number": "69"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "BAB 4 BELAJAR MENJADI NEGOSIATOR ULUNG",
+      "page_number": "99"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "BAB 5 MEMETIK KETELADANAN DARI BIOGRAFI PAHLAWAN",
+      "page_number": "129"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "BAB 6 BERKARYA DAN BEREKSPRESI MELALUI PUISI",
+      "page_number": "173"
     }
   ]
 }

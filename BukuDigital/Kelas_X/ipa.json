@@ -38,8 +38,43 @@
   "Chapter": [
     {
       "book_id": 1,
-      "chapter_name": "Mulai Baca",
-      "page_number": "1"
+      "chapter_name": "⏩ Bab 1 Pengukuran dalam Kerja Ilmiah ",
+      "page_number": "19"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 2 Virus dan Peranannya",
+      "page_number": "49"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 3 Kimia Hijau dalam Pembangunan Berkelanjutan 2030",
+      "page_number": "73"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 4 Hukum Dasar Kimia di Sekitar Kita",
+      "page_number": "93"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 5 Struktur Atom – Keunggulan Nanomaterial",
+      "page_number": "123"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 6 Energi Terbarukan",
+      "page_number": "143"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 7 Keanekaragaman Makhluk Hidup, Interaksi, dan Peranannya di Alam",
+      "page_number": "169"
+    },
+       {
+      "book_id": 1,
+      "chapter_name": "⏩ Bab 8 Pemanasan Global: Konsep dan Solusi",
+      "page_number": "195"
     }
   ]
 }
